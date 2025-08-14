@@ -1,0 +1,56 @@
+[
+  {
+    "id": "a1",
+    "title": "OpenAI, 신규 임베딩 모델 발표",
+    "url": "https://example.com/a1",
+    "published_at": "2025-08-10T03:00:00Z",
+    "source": "Example News",
+    "tags": ["embeddings","RAG"],
+    "body": "OpenAI가 신규 임베딩 모델을 공개했다. 장문 컨텍스트 지원과 RAG 적합성이 강조되었다..."
+  },
+  {
+    "id": "a2",
+    "title": "Google, Gemini 2.0 Flash 성능 개선",
+    "url": "https://example.com/a2",
+    "published_at": "2025-08-12T12:00:00Z",
+    "source": "Example News",
+    "tags": ["Gemini","Google"],
+    "body": "Google은 Gemini 2.0 Flash 모델의 응답 지연을 낮추고 비용 효율을 높였다고 밝혔다..."
+  },
+  {
+    "id": "a3",
+    "title": "Anthropic, Claude 업데이트",
+    "url": "https://example.com/a3",
+    "published_at": "2025-08-09T08:00:00Z",
+    "source": "Example Tech",
+    "tags": ["Claude","Safety"],
+    "body": "Anthropic은 Claude 모델의 안전성 관련 업데이트를 발표했다..."
+  },
+  {
+    "id": "a4",
+    "title": "오픈소스 벡터DB 도입 사례",
+    "url": "https://example.com/a4",
+    "published_at": "2025-08-11T10:00:00Z",
+    "source": "Dev Weekly",
+    "tags": ["Qdrant","Vector","Database"],
+    "body": "여러 기업이 Qdrant, pgvector 등 오픈소스 벡터 데이터베이스를 도입하고 있다..."
+  },
+  {
+    "id": "a5",
+    "title": "멀티모달 RAG 트렌드",
+    "url": "https://example.com/a5",
+    "published_at": "2025-08-13T02:30:00Z",
+    "source": "AI Digest",
+    "tags": ["RAG","Multimodal"],
+    "body": "이미지와 텍스트를 함께 다루는 멀티모달 RAG에 대한 관심이 높아지고 있다..."
+  },
+  {
+    "id": "a6",
+    "title": "검색 재랭킹(리랭커) 활용법",
+    "url": "https://example.com/a6",
+    "published_at": "2025-08-08T06:00:00Z",
+    "source": "Search Tech",
+    "tags": ["Reranker","Retrieval"],
+    "body": "BGE, mxbai 등 크로스 인코더 리랭커로 검색 품질을 높일 수 있다..."
+  }
+]
