@@ -10,6 +10,7 @@ __pycache__/
 backend/.env
 backend/venv/
 backend/.venv/
+myvenv/
 
 # Java / Maven
 spring-gateway/target/
