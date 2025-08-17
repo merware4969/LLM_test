@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+
+# FastAPI venv & env
+backend/.env
+backend/venv/
+backend/.venv/
+
+# Java / Maven
+spring-gateway/target/
+spring-gateway/.classpath
+spring-gateway/.project
+spring-gateway/.settings/
+
+# Node (frontend가 있을 경우)
+node_modules/
+dist/
+build/
+
+# OS / Editor
+.DS_Store
+*.log
+.idea/
+.vscode/
